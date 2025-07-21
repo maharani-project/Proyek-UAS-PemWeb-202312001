@@ -6,7 +6,6 @@ MbetaRO adalah aplikasi web dinamis berbasis PHP native dan MySQL untuk mengelol
 
 ## 📌 Fitur Utama
 
-```text
 | Role          | Fitur                                                                 |
 |---------------|-----------------------------------------------------------------------|
 | **Admin**     | - Manajemen Produk, Kategori, Supplier, Pengguna dan Laporan          |
@@ -19,7 +18,6 @@ MbetaRO adalah aplikasi web dinamis berbasis PHP native dan MySQL untuk mengelol
 |               | - Melihat detail produk & pilih ukuran (S, M, L, XL)                  |
 |               | - Menambahkan produk ke keranjang                                     |
 |               | - Melakukan checkout dan melihat riwayat pesanan                      |
-```
 
 ---
 
@@ -153,19 +151,17 @@ mbetaro/
 
 ## 🛠️ Teknologi Digunakan
 
-```text
 | Layer       | Teknologi                            |
 |-------------|--------------------------------------|
 | **Backend** | PHP 7.4+                             |
 | **Database**| MySQL 5.7+                           |
 | **Frontend**| HTML, CSS, Bootstrap 4               |
 | **Lainnya** | DOMPDF (cetak PDF), Composer         |
-```
+
 ---
 
 ## 🧠 Alur Penggunaan Aplikasi
 
-```text
 1. 🔐 **Registrasi & Login**  
    - Pengguna mendaftar & login  
    - Sistem membaca role: admin, kasir, atau pelanggan
@@ -188,19 +184,16 @@ mbetaro/
 6. 📃 **Cetak Struk & Riwayat**  
    - Pelanggan melihat riwayat pesanan  
    - Bisa mencetak struk via halaman `struk.php` atau PDF
-```
 
 ---
 
 ## 🔐 Hak Akses User
 
-```text
 | Role         | Halaman Login              | Akses Modul                                        |
 |--------------|----------------------------|----------------------------------------------------|
 | **Admin**    | `pages/user/login.php`     | Produk, Kategori, Supplier, User, Laporan          |
 | **Kasir**    | `pages/user/login.php`     | Transaksi, Proses Pesanan                          |
 | **Pelanggan**| `pages/user/login.php`     | Belanja, Checkout, Riwayat, Data Profil            |
-```
 
 ---
 
@@ -213,7 +206,6 @@ mbetaro/
 
 ### Tabel-Tabel Utama:
 
-```text
 | Tabel            | Keterangan                              |
 |------------------|-----------------------------------------|
 | `users`          | Data login semua role                   |
@@ -227,7 +219,6 @@ mbetaro/
 | `activity_logs`  | Log aktivitas admin                     |
 | `settings`       | Konfigurasi global toko                 |
 📌 Ukuran produk disimpan di tabel `order_items` kolom `size`
-```
 
 ---
 
