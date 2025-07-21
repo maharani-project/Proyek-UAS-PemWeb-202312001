@@ -95,6 +95,13 @@ Konfigurasi situs/aplikasi.
 
 ---
 
+# Entity Relationship Diagram (ERD)
+
+Berikut adalah diagram relasi antar tabel (ERD) untuk aplikasi **MbetaRO** (Toko Fashion Online):
+![ERD MbetaRO](mbetaro.dbml.png)
+
+---
+
 ## 🧩 Catatan
 
 - Setiap entitas menggunakan primary key `id` berbentuk integer auto-increment.
