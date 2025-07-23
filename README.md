@@ -230,11 +230,10 @@ mbetaro/
 
 ---
 
-## 🧪 Demo (Opsional)
-
-> Jika kamu punya link hosting / demo online, bisa ditambahkan di sini  
-> Contoh:
-> [🔗 Lihat Demo](https://mbetaro.demo.test)
+## 🧪 Demo 
+ 
+> [🔗 Tonton Demo di Youtube](https://mbetaro.demo.test)
+> [🔗 Kunjungi Website Demo](https://mbetaro.demo.test)
 
 ---
 
