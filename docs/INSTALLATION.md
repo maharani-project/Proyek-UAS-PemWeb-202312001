@@ -5,14 +5,14 @@ Dokumen ini berisi langkah-langkah untuk melakukan instalasi dan menjalankan apl
 
 ## 📋 Persyaratan Sistem
 Pastikan Anda telah menginstal software berikut:
-```bash
+
 | Komponen   | Versi Minimum                          |
 | ---------- | -------------------------------------- |
 | PHP        | 7.4 atau lebih baru                    |
 | MySQL      | 5.7 atau lebih baru                    |
 | Web Server | Apache (XAMPP / Laragon / LAMP)        |
 | Browser    | Modern Browser (Chrome, Edge, Firefox) |
-```
+
 
 ---
 
@@ -149,16 +149,15 @@ mbetaro/
 ```bash
 git clone https://github.com/username/mbetaro.git
 ```
-Atau unduh ZIP dari GitHub, lalu ekstrak ke dalam folder htdocs (jika menggunakan XAMPP).
+
+---
 
 2. Setup Database
-   1. Buka phpMyAdmin.
-   2. Buat database baru dengan nama: mbetaro.
-   3. Import file SQL:
-      - Masuk ke database mbetaro.
-      - Klik Import.
-      - Pilih file sql/mbetaro.sql.
-      - Klik Go.
+   - Buka phpMyAdmin.
+   - Buat database baru dengan nama: mbetaro.
+   - Import file SQL: Masuk ke database mbetaro, Klik Import, Pilih file sql/mbetaro.sql, Klik Go.
+
+---      
 
 3. Konfigurasi Database
 Edit file config/db.php dan sesuaikan kredensial Anda:
@@ -169,6 +168,8 @@ $user = "root";
 $pass = ""; // sesuaikan jika ada password
 $db   = "mbetaro";
 ```
+
+---
 
 4. Jalankan Aplikasi
 Buka browser dan akses:
