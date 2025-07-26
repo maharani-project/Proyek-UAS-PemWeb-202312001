@@ -7,7 +7,7 @@ MbetaRO adalah aplikasi web dinamis berbasis PHP native dan MySQL untuk mengelol
 ## 🧪 Demo 
  
 > [🔗 Tonton Demo di Youtube](https://youtu.be/p_LmHbozZZ4)
-> [🔗 Kunjungi Website Demo](mbetaro.my.id)
+> [🔗 Kunjungi Website Demo](https://mbetaro.my.id/pages/user/login.php)
 
 ---
 
