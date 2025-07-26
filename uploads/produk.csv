@@ -1,0 +1,163 @@
+name;description;price;stock;image;category_id;supplier_id
+Batik Premium Lengan Panjang ;Batik eksklusif, bahan premium dan adem;155000;50;batik1.jpg;1;1
+Batik Etnil Lengan Pendek;Batik motif etnik klasik, lengan pendek;135000;50;batik2.jpg;1;1
+Batik Casual Kekinian;Batik casual bahan adem untuk sehari-hari;125000;50;batik3.jpg;1;1
+Batik Casual Cream;Batik casual motif soft untuk sehari-hari;125000;50;batik4.jpg;1;1
+Batik Two Toned Elegan;Batik warna gelap dengan corak elegan;150000;50;batik5.jpg;1;1
+Batik Soft Elegan;Batik warna soft dengan corak elegan;145000;50;batik6.jpg;1;1
+Kaos Santai Lengan Pendek;Kaos lengan pendek pria bahan cotton combed 30s;94000;50;kaos1.jpg;1;1
+Kaos Jalan Lengan Pendek;Kaos lengan pendek, cocok untuk jalan santai;94000;50;kaos2.jpg;1;1
+Kaos Street Style;Desain street style, warna netral;94000;50;kaos3.jpg;1;1
+Kaos Sablon Ala Distro;Kaos sablon keren ala distro lokal;94000;50;kaos4.jpg;1;1
+Kaos Oversized Trendy;Model oversized trendy, bahan adem;94000;50;kaos5.jpg;1;1
+Kaos Striped Kekinian;Kaos dengan garis-garis warna stylish;94000;50;kaos6.jpg;1;1
+Kaos Striped Hitam Putih;Kaos garis hitam putih klasik;94000;50;kaos7.jpg;1;1
+Kaos Motif Simple;Kaos simple dengan motif lengan;94000;50;kaos8.jpg;1;1
+Kaos Pastel Lembut;Kaos simple dengan warna pastel lembut;94000;50;kaos9.jpg;1;1
+Kaos Street  style Klasis;Kaos street style motif hitam klasik;94000;50;kaos10.jpg;1;1
+Kaos Oversized ;Model oversized trendy, bahan adem;94000;50;kaos11.jpg;1;1
+Kemeja Motif ;Kemeja Pattern Alami;135000;50;kemeja1.jpg;1;1
+Kemeja Flanel Kotak-Kotak;Kemeja flanel kotak untuk gaya kasual;135000;50;kemeja2.jpg;1;1
+Kmeja Motif Lengan Panjang;Kemeja Lengan Panjang dengan corak unik;135000;50;kemeja3.jpg;1;1
+Kemeja Kantor Slim Fit;Kemeja slim fit lengan pendek formal;135000;50;kemeja4.jpg;1;1
+Kemeja Motif Kuliah/Kerja;Model pattern unik untuk kuliah atau kerja;135000;50;kemeja5.jpg;1;1
+Kemeja casual Harian;Kemeja kasual bisa dipakai harian;135000;50;kemeja6.jpg;1;1
+Kemeja Linen Polos;Bahan linen adem cocok untuk musim panas;135000;50;kemeja7.jpg;1;1
+Kemeja Cotton soft;Kemeja berbahan cotton ringan;135000;50;kemeja8.jpg;1;1
+Kmeja Linen Soft Polos;Kmeja Linen warna soft;135000;50;kemeja9.jpg;1;1
+Kemeja V-Neck Lengan Pendek;Model V-neck hijau pastel cocok untuk gaya santai;135000;50;kemeja10.jpg;1;1
+Kemeja V-Neck Gaya Santai;Model V-neck abu cocok untuk gaya santai;135000;50;kemeja11.jpg;1;1
+Batik Elegan 1;Blus batik elegan dengan motif tradisional modern;86500;50;batik1.jpg;2;2
+Batik Elegan 2;Batik wanita lengan panjang dengan warna kalem;89500;50;batik2.jpg;2;2
+Batik Klasik 3;Blus batik motif klasik cocok untuk acara formal;92500;50;batik3.jpg;2;2
+Batik Kasual 4;Batik santai model kekinian dengan bahan adem;95500;50;batik4.jpg;2;2
+Batik Trendy 5;Kemeja batik stylish untuk tampil anggun dan modern;98500;50;batik5.jpg;2;2
+Batik Modern 6;Atasan batik wanita modern kombinasi warna pastel;101000;50;batik6.jpg;2;2
+Batik Chic 7;Batik motif kontemporer dengan potongan slim fit;104000;50;batik7.jpg;2;2
+Blouse Cantik 1;Blouse simpel dengan warna pastel lembut, cocok untuk sehari-hari;112000;50;blouse1.jpg;2;2
+Blouse Cantik 2;Blouse modis model flare, nyaman dipakai saat santai;112000;50;blouse2.jpg;2;2
+Blouse Ruffle 3;Blouse two toned, memberi kesan manis;112000;50;blouse3.jpg;2;2
+Blouse Ruffle 4;Blouse putih kombinasi ruffle feminim dan elegan;112000;50;blouse4.jpg;2;2
+Blouse Kancing 5;Blouse lengan panjang dengan detail lengan sweater depan;112000;50;blouse5.jpg;2;2
+Blouse Casual 6;Blouse lengan 3/4 cocok untuk Hangout;112000;50;blouse6.jpg;2;2
+Blouse Polos 7;Blouse polos lengan panjang dengan bahan adem;112000;50;blouse7.jpg;2;2
+Blouse Flare 8;Blouse flare kombinasi warna Kuning;112000;50;blouse8.jpg;2;2
+Blouse Korea 9;Blouse model Korea dengan potongan manis dan modis;112000;50;blouse9.jpg;2;2
+Blouse Chic 10;Blouse chic warna pastel cocok untuk hangout;112000;50;blouse10.jpg;2;2
+Blouse Elegant 11;Blouse elegan dengan detail sabuk dan bahan linen;112000;50;blouse11.jpg;2;2
+Blouse Lace 12;Blouse Kotak feminim, cocok untuk Hangout;112000;50;blouse12.jpg;2;2
+Blouse Soft 13;Blouse kerah pita dengan bahan jatuh dan nyaman;112000;50;blouse13.jpg;2;2
+Blouse Pink 14;Blouse Biru manis model peplum dengan kerah V-Neck;112000;50;blouse14.jpg;2;2
+Blouse Pastel 15;Blouse warna pastel soft blue ;112000;50;blouse15.jpg;2;2
+Blouse Trendy 16;Blouse kekinian dengan potongan loose dan bahan flowy;112000;50;blouse16.jpg;2;2
+Blouse Putih 17;Blouse putih lengan balon cocok untuk gaya minimalis;112000;50;blouse17.jpg;2;2
+Crop Top Polos Casual Cream;Crop top polos warna cream, cocok dipadukan dengan berbagai outfit.;104000;50;crop1.jpg;2;2
+Crop Top Polos Casual Maroon;Crop top polos warna maroon, cocok dipadukan dengan berbagai outfit.;104000;50;crop2.jpg;2;2
+Crop Top Peach V-Neck Basic;Simpel dan elegan dengan potongan v-neck dan lengan balon;104000;50;crop3.jpg;2;2
+Crop Top Pink Ruffle Charm;Crop pink dengan detail ruffle cantik, cocok untuk look girly kamu.;104000;50;crop4.jpg;2;2
+Crop Top pink peach Casual Cut;Crop pink lengan panjang, cocok untuk Hangout.;104000;50;crop5.jpg;2;2
+Crop Top Black Stripe Chic;Crop Black Stripe dengan detail lengan garis;104000;50;crop6.jpg;2;2
+Crop Top kotak-kotak Fresh Look;Crop pink dengan detail kotak cantik, cocok untuk look girly kamu.;104000;50;crop7.jpg;2;2
+Crop Top Black Stripe Ruffle;Crop Black Stripe dengan detail ruffle cantik pada bagian lengan;104000;50;crop8.jpg;2;2
+Kardigan rajut premium tebal;Kardigan rajut premium dengan bahan tebal dan halus.;109000;50;rajut1.jpg;2;2
+rompi rajut crop motif ketupat;Rompi rajut model crop dengan motif ketupat yang unik.;97000;50;rajut2.jpg;2;2
+sweater rajut putih love;Sweater putih berbahan rajut lembut dengan detail motif love yang manis. ;102000;50;rajut3.jpg;2;2
+sage outer rajut;Outer rajut warna sage yang menenangkan, memberi kesan kalem.;99000;50;rajut4.jpg;2;2
+Daisy flower v-neck gaya korea;Rajut v-neck bermotif bunga daisy ala Korea yang sedang tren.;105000;50;rajut5.jpg;2;2
+Celana Jeans Pria Urband Slimfit;Celana jeans slimfit dengan potongan modern, cocok untuk gaya kasual harian.;139000;50;celana1.jpg;3;3
+Celana Joger Katun Pinggang Karet;Terbuat dari katun nyaman dengan pinggang elastis, cocok untuk santai dan semi-formal.;115000;50;celana1.jpg;3;3
+Celana Chino Pendek Premium;Chino pendek bahan premium, potongan rapi dan cocok untuk tampilan smart casual.;119000;50;celana1.jpg;3;3
+Celana Jorts Bermuda Men;Jorts (jeans shorts) model Bermuda, nyaman untuk gaya musim panas.;109000;50;celana1.jpg;3;3
+Celana Short Cargo Freak;Celana pendek cargo dengan banyak saku, cocok untuk aktivitas luar ruangan.;125000;50;celana1.jpg;3;3
+Celana Pendek Pria Surfing Distro;Celana pendek motif surfing, gaya distro kekinian untuk liburan atau hangout.;99000;50;celana1.jpg;3;3
+Celana Cotton Cargo Stretch;Bahan katun stretch yang fleksibel, celana cargo ini cocok untuk gaya aktif.;129000;50;celana1.jpg;3;3
+Celana Jeans Baggy Gombrong Loosefit;Gaya baggy gombrong yang lagi trend, cocok untuk streetwear look.;135000;50;celana1.jpg;3;3
+Barrel Jeans Kekinian;Celana jeans barrel cut kekinian dengan siluet unik dan nyaman.;132000;50;celana1.jpg;3;3
+Celana Jeans Korea Baggy Korean Style;Celana jeans baggy dengan sentuhan gaya Korea, cocok untuk pecinta K-fashion.;138000;50;celana1.jpg;3;3
+Celana Heattech Warm Lined;Dilengkapi dengan lapisan hangat, cocok untuk udara dingin atau traveling.;149000;50;celana1.jpg;3;3
+Celana Kantor Pria Formal;Celana formal untuk ke kantor dengan potongan elegan dan bahan berkualitas.;125000;50;celana1.jpg;3;3
+Celana Corduroy Pendek Kekinian;Bahan corduroy halus, pendek dan stylish, cocok untuk gaya santai.;119000;50;celana13.jpg;3;3
+Celana Cargo Pendek Premium;Cargo pendek dengan detail premium dan desain multifungsi.;128000;50;celana14.jpg;3;3
+Celana Fit Waffled Short;Celana pendek waffled yang pas di badan, gaya clean dan sporty.;117000;50;celana15.jpg;3;3
+Highwaist Cutbray Jeans Wanita Kekinian;Jeans potongan cutbray dengan model highwaist yang mempertegas kaki jenjang.;139000;50;celana1.jpg;4;4
+Kulot Jeans Highwaist Kekinian;Kulot berbahan denim dengan pinggang tinggi yang nyaman dan stylish.;125000;50;celana1.jpg;4;4
+Kulot Stripped Pants Kombinasi Bunga;Kulot motif garis dengan aksen bunga feminin yang cocok untuk gaya kasual santai.;119000;50;celana1.jpg;4;4
+Woman Highwaist Kulot Katun Lembut;Kulot highwaist dari katun lembut, adem dan nyaman dipakai seharian.;115000;50;celana1.jpg;4;4
+Celana Linen Wanita Formal;Celana wanita berbahan linen premium, cocok untuk acara formal atau kerja.;129000;50;celana1.jpg;4;4
+Celana Kulot Katun Stripped;Kulot motif garis dari bahan katun ringan, pas untuk tampilan kasual.;109000;50;celana1.jpg;4;4
+Women Hotpants Korean Style;Hotpants model Korea yang kekinian, cocok untuk hangout dan musim panas.;95000;50;celana1.jpg;4;4
+Lily Short Pants Kekinian;Celana pendek wanita model Lily dengan potongan simple dan manis.;98000;50;celana1.jpg;4;4
+Floral Mini Denim Bordir;Rok mini denim dengan bordiran bunga yang elegan dan stylish.;105000;50;celana1.jpg;4;4
+Jumpsuit Jeans Hitam Tebal;Jumpsuit dari bahan denim hitam tebal, nyaman dan penuh gaya.;145000;50;celana1.jpg;4;4
+Women Short Unfinished Jeans Regular;Celana jeans pendek dengan potongan unfinished untuk gaya edgy.;99000;50;celana1.jpg;4;4
+Woman Highwaist Denim Short;Celana pendek highwaist denim, mempertegas siluet tubuh wanita.;102000;50;celana1.jpg;4;4
+Pleated Skirt Korean Style;Rok plisket ala Korea yang manis dan feminim, cocok untuk outfit OOTD.;110000;50;rok1.jpg;4;4
+Rok Celana Bros Pita;Kombinasi rok dan celana dengan detail bros pita, tampilan imut.;105000;50;rok2.jpg;4;4
+Haruka Skirt Kekinian;Rok pendek dengan motif Haruka khas Jepang, cantik dan trendi.;108000;50;rok3.jpg;4;4
+Lixy Cargo Micro Scort;Rok pendek cargo model celana dalam (scort), fungsional dan modis.;112000;50;rok4.jpg;4;4
+Rok Mini Plisket;Rok mini dengan lipit-lipit kecil, cocok untuk gaya santai dan semi-formal.;95000;50;rok5.jpg;4;4
+Rok Kotak Tanggung;Rok motif kotak model tanggung, gaya vintage dan smart casual.;115000;50;rok6.jpg;4;4
+Rok Midi Denim;Rok denim panjang tanggung dengan belahan samping yang anggun.;119000;50;rok7.jpg;4;4
+Cesya Ruffle Rok Wanita Kekinian;Rok dengan aksen ruffle bertingkat, feminin dan penuh gaya.;109000;50;rok8.jpg;4;4
+Rok Midi Tebal;Rok midi berbahan tebal berkualitas, cocok untuk cuaca dingin.;122000;50;rok9.jpg;4;4
+Rok Panjang Tali Pinggang;Rok panjang elegan dengan tali pinggang serbaguna untuk gaya modis.;128000;50;rok10.jpg;4;4
+Jaket Crop Answer Me Casual;Jaket crop model casual dengan gaya Korea, cocok dipadukan dengan highwaist.;139000;50;jaket1.jpg;5;5
+Jaket Ganni Buckled Denim;Jaket denim dengan buckle khas Ganni, memberikan sentuhan edgy pada tampilan.;165000;50;jaket2.jpg;5;5
+Jaket Varsity Baseball;Jaket varsity klasik bergaya baseball dengan bahan nyaman dan hangat.;150000;50;jaket3.jpg;5;5
+Jaket Varsity Combi Wild Tigers;"Jaket varsity kombinasi warna dengan patch ""Wild Tigers"", cocok untuk gaya streetwear.";155000;50;jaket4.jpg;5;5
+Jaket Varsity Vintage Huruf R;Jaket varsity retro dengan emblem huruf R, memberikan kesan vintage sporty.;152000;50;jaket5.jpg;5;5
+Jaket Shine Parka Parasut;Jaket parka berbahan parasut tahan angin dan ringan, cocok untuk aktivitas luar.;145000;50;jaket6.jpg;5;5
+Jaket Varsity Beruang;Jaket varsity dengan detail bordir beruang lucu, stylish dan comfy.;149000;50;jaket7.jpg;5;5
+Jaket Jeans Bigsize Friendly;Jaket denim longgar yang cocok untuk semua ukuran, nyaman dan modis.;158000;50;jaket8.jpg;5;5
+Jaket Denim Wanita Tebal;Jaket denim wanita dengan lapisan tebal, pas untuk musim dingin ringan.;162000;50;jaket9.jpg;5;5
+Jaket Hoodie Cargo Parasut Premium;Jaket hoodie berbahan parasut dengan kantong cargo, trendi dan multifungsi.;155000;50;jaket10.jpg;5;5
+Jaket Parka Matt Canvas;Parka berbahan kanvas matte, desain kasual dan tahan lama.;160000;50;jaket11.jpg;5;5
+Jaket Corduroy Pure Color Zip Front;Jaket corduroy berwarna solid dengan resleting depan, gaya simpel tapi elegan.;153000;50;jaket12.jpg;5;5
+Jaket Pria Casual;Jaket pria kasual berbahan ringan, cocok untuk dipakai sehari-hari.;138000;50;jaket13.jpg;5;5
+Jaket Hiking Waterproof Pria;Jaket hiking tahan air, cocok untuk kegiatan outdoor dan pendakian.;170000;50;jaket14.jpg;5;5
+Jaket Puffer Unisex Musim Dingin;Jaket puffer tebal yang cocok dipakai pria maupun wanita di cuaca dingin.;175000;50;jaket15.jpg;5;5
+Jaket Unisex Insulated Hoodie;Jaket hoodie dengan insulasi hangat, unisex dan stylish untuk sehari-hari.;165000;50;jaket16.jpg;5;5
+Jaket Bades Two Tone Star Patch;Jaket warna dua tone dengan patch bintang, tampilan unik dan kekinian.;159000;50;jaket17.jpg;5;5
+Jaket Vintage Windbracker;Jaket windbreaker dengan desain vintage, ringan dan cocok untuk bersepeda.;145000;50;jaket18.jpg;5;5
+Jaket Funnel Neck Leather Bomber;Jaket bomber kulit dengan leher model funnel, tampil maskulin dan keren.;180000;50;jaket19.jpg;5;5
+Jaket Comfy Premium;Jaket comfy premium dengan bahan halus dan potongan pas badan.;155000;50;jaket20.jpg;5;5
+Sepatu Millie Bobby Brown × Converse;Sepatu Converse edisi khusus Millie Bobby Brown dengan desain playful dan trendy.;245000;50;sepatu1.jpg;6;6
+Sepatu Roller Skate;Sepatu roda retro dengan desain stylish, cocok untuk pemula dan profesional.;289000;50;sepatu2.jpg;6;6
+Sepatu Caterpillar Cat Premier;Sepatu safety boots dengan material premium, tangguh dan cocok untuk outdoor.;310000;50;sepatu3.jpg;6;6
+Waterproof Camo Leather Boot;Sepatu boot kulit anti air dengan motif camo, cocok untuk segala cuaca.;298000;50;sepatu4.jpg;6;6
+Sepatu Lari Kulit Ringan;Sepatu lari berbahan kulit sintetis ringan, nyaman untuk olahraga dan kasual.;230000;50;sepatu5.jpg;6;6
+Findal Sepatu Heels Wanita 5CM;Sepatu hak wanita 5cm dari Findal, cocok untuk formal maupun casual look.;179000;50;sepatu6.jpg;6;6
+Sepatu Lolita Hak Tinggi Gotik Retro;Sepatu hak tinggi gaya gotik ala Lolita dengan aksen pita dan renda klasik.;205000;50;sepatu7.jpg;6;6
+Sepatu Mid-Heeled Repetto French;Sepatu hak sedang ala Repetto Prancis dengan desain elegan dan anggun.;198000;50;sepatu8.jpg;6;6
+Sepatu Ballet Flat Wanita;Sepatu flat balet wanita, ringan dan feminim, cocok untuk harian.;165000;50;sepatu9.jpg;6;6
+Sepatu Boot Tinggi Wanita;Sepatu boot wanita dengan potongan tinggi, elegan dan cocok untuk musim hujan.;275000;50;sepatu10.jpg;6;6
+Sepatu Vans Old Skool;Sepatu skate klasik Vans Old Skool, dengan garis ikonik dan gaya timeless.;240000;50;sepatu11.jpg;6;6
+Sepatu Docmart Mary Jane;Sepatu Docmart model Mary Jane dengan buckle dan sol tebal, edgy dan manis.;225000;50;sepatu12.jpg;6;6
+High Heels White;Sepatu high heels warna putih polos, cocok untuk pesta atau pernikahan.;185000;50;sepatu13.jpg;6;6
+Sneakers Adidas Samba;Sneakers Adidas klasik dengan desain low-cut dan material kulit berkualitas.;260000;50;sepatu14.jpg;6;6
+Converse Chuck Taylor Allstar;Sepatu kanvas klasik Converse All Star, ringan dan cocok untuk gaya kasual.;215000;50;sepatu15.jpg;6;6
+Converse Run Star Hike High;Sepatu high-top Converse dengan sol tebal dan bergigi, tampilan unik dan modern.;265000;50;sepatu16.jpg;6;6
+High School Crush Heels;Heels wanita bertema “crush sekolah”, desain manis dan feminin.;190000;50;sepatu17.jpg;6;6
+Sepatu Kulit Pria Azocts Zapato;Sepatu kulit pria model zapato dari Azocts, klasik dan elegan.;155000;50;sepatu18.jpg;6;6
+Converse Chuck Taylor Allstar Rubber Hi Wild;Versi waterproof dari Chuck Taylor dengan material karet dan desain wild.;248000;50;sepatu19.jpg;6;6
+Sepatu Formal Loafers Pria;Sepatu loafers pria formal, cocok untuk kerja dan acara resmi.;220000;50;sepatu20.jpg;6;6
+Tas Wanita Leather Plain;Tas wanita berbahan kulit sintetis polos dengan desain minimalis dan elegan.;189000;50;tas1.jpg;7;7
+Mini Backpack Wanita;Ransel mini wanita yang stylish dan praktis untuk aktivitas sehari-hari.;175000;50;tas2.jpg;7;7
+Sling Bag Michael Kors;Tas selempang branded dengan model klasik dan material premium.;245000;50;tas3.jpg;7;7
+Leather Small Cross Body Bag Verona;Tas kulit ukuran kecil dengan tali panjang, cocok untuk acara kasual.;198000;50;tas4.jpg;7;7
+Tas Mochilla Matein Mini;Ransel kecil bergaya Mochila, ringan dan cocok untuk travelling ringan.;160000;50;tas5.jpg;7;7
+Tas Pria Laptop;Tas laptop pria berbahan nilon tahan air, muat hingga ukuran 15 inch.;210000;50;tas6.jpg;7;7
+Cleo Handbag;Tas jinjing wanita elegan dengan bentuk structured dan warna netral.;175000;50;tas7.jpg;7;7
+Montsouris Backpack;Tas backpack modis dengan desain klasik, cocok untuk sekolah atau kerja.;195000;50;tas8.jpg;7;7
+Shoulder Bag Charles & Keith;Tas bahu bergaya mewah dari Charles & Keith, cocok untuk pesta maupun formal.;230000;50;tas9.jpg;7;7
+Tas Ransel Laptop Nilon;Ransel berbahan nilon tahan lama dengan kompartemen laptop terpisah.;190000;50;tas10.jpg;7;7
+Tas Hangout Hand Bag Trendy;Tas kecil trendy untuk hangout, ringan dan cocok dibawa saat santai.;155000;50;tas11.jpg;7;7
+Tas Ransel Wanita Backpack Anti Air;Ransel wanita multifungsi dengan bahan anti air dan banyak saku.;185000;50;tas12.jpg;7;7
+Kate Spade Backpack;Tas ransel branded Kate Spade dengan desain elegan dan bahan berkualitas.;260000;50;tas13.jpg;7;7
+Vintage Canvas Messenger Bag Men's;Tas selempang pria berbahan kanvas dengan gaya vintage dan klasik.;180000;50;tas14.jpg;7;7
+Satchel Bags & Handbags;Tas tangan wanita model satchel modern, cocok untuk kerja atau kuliah.;200000;50;tas15.jpg;7;7
+Ransel Kanvas Coklat Terbaru;Tas ransel berbahan kanvas warna coklat, modis dan tahan lama.;185000;50;tas16.jpg;7;7
+Tas Kulit Asli Portugal;Tas kulit asli buatan Portugal, eksklusif dan berkelas.;295000;50;tas17.jpg;7;7
+Tas Selempang Pesta;Tas kecil selempang untuk pesta dengan aksen mengkilap dan glamor.;160000;50;tas18.jpg;7;7
+Tas Ransel Pria Elbrus;Ransel outdoor pria dari brand Elbrus, kuat dan cocok untuk petualangan.;210000;50;tas19.jpg;7;7
+Waistbag Tas Pinggang Pria;Tas pinggang pria sporty, cocok untuk aktivitas outdoor dan kasual.;155000;50;tas20.jpg;7;7

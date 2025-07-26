@@ -1,0 +1,14 @@
+{
+    "name": "asus/mbetaro",
+    "description": "A Simple PHP Fashion Shop",
+    "type": "project",
+    "authors": [
+        {
+            "name": "maharani-project",
+            "email": "maharaniputri954@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
