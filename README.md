@@ -232,8 +232,8 @@ mbetaro/
 
 ## 🧪 Demo 
  
-> [🔗 Tonton Demo di Youtube](https://mbetaro.demo.test)
-> [🔗 Kunjungi Website Demo](https://mbetaro.demo.test)
+> [🔗 Tonton Demo di Youtube](https://youtu.be/p_LmHbozZZ4)
+> [🔗 Kunjungi Website Demo](mbetaro.my.id)
 
 ---
 
