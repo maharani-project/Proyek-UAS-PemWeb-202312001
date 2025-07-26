@@ -4,6 +4,13 @@ MbetaRO adalah aplikasi web dinamis berbasis PHP native dan MySQL untuk mengelol
 
 ---
 
+## 🧪 Demo 
+ 
+> [🔗 Tonton Demo di Youtube](https://youtu.be/p_LmHbozZZ4)
+> [🔗 Kunjungi Website Demo](mbetaro.my.id)
+
+---
+
 ## 📌 Fitur Utama
 
 | Role          | Fitur                                                                 |
@@ -227,13 +234,6 @@ mbetaro/
 - 🎨 Warna dominan: **Lavender**, **Peach**, **Rose Pink**
 - 📱 Responsif di perangkat desktop & mobile
 - 🛒 Layout seperti e-commerce modern
-
----
-
-## 🧪 Demo 
- 
-> [🔗 Tonton Demo di Youtube](https://youtu.be/p_LmHbozZZ4)
-> [🔗 Kunjungi Website Demo](mbetaro.my.id)
 
 ---
 
